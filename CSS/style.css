@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+}
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Yellowtail', cursive;
+    font-size: 5.625rem;
+    line-height: 1.5;
+    color: #66BFBF;
+}
+h2 {
+    font-family: 'Coda', cursive;
+    font-weight: normal;
+    font-size: 2.5rem;
+    color: #66BFBF
+}
+h3 {
+    font-family: 'Coda', cursive;
+    color: #66BFBF;
+}
+.top-container {
+    background-color: #CDFCF6; 
+    position: relative;
+    padding-top: 100px;
+}
+.cloud1 {
+    position: relative;
+    left: 216px;
+}
+.cloud2 {
+    position: absolute;
+    right: 218x;
+}
+.Jaabir {
+    border-radius: 10px  10px 10px 10px;
+}
+.photo {
+    float: right;
+    margin-right: 25px;
+    border-radius: 10px  10px 10px 10px;
+    width: 40%;
+}
+.photo1 {
+    float: left;
+    margin-right: 25px;
+    border-radius: 10px  10px 10px 10px;
+    width: 40%;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+p {
+    line-height: 1.5;
+}
+.hr1 {
+    margin: 100px auto 100px auto;
+    border: #66BFBF ;
+    text-align: left;
+}
+.hr2 {
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.skill-row1 {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1;
+}
+.middle-container {
+    margin: 100px 0;
+    background-color: #F6F6F6;
+    position: relative;
+    padding: 100px;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+    line-height: 1.5;
+}
+.contact-me {
+    width: 30%;
+    margin: auto;
+    content-align: center;
+}
+.bottom-container {
+    background-color: #CDFCF6;
+    position: relative;
+    padding: 100px;
+    color:#66BFBF;
+}
